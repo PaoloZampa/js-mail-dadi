@@ -29,7 +29,7 @@ function emailCheck() {
 
     //creo costanti dall'html
     const emailUser = document.getElementById('email');
-    const message = document.getElementById('final_message')
+    const message = document.getElementById('final_message');
     const userEmail = emailUser.value;
 
     //uso if else
