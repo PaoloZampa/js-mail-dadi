@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: aqua;
+    text-align: center;
+    height: 400px;
+    margin-top: 60px;
+}
