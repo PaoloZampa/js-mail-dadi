@@ -11,7 +11,7 @@ const player1 = "PLAYER 1";
 const player2 = "PLAYER 2";
 const result_1 = document.getElementById('result1')
 const result_2 = document.getElementById('result2')
-const rollTheDice = document.getElementById('check_button');
+/* const rollTheDice = document.getElementById('check_button'); */
 
 //faccio funzione
 function rollDice() {
